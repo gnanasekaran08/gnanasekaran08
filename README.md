@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Hospital Post Discharge Summary Application** 
 
-- 🔭 Upcoming Projects - **Sleek Bill App**, **Nursing Privileges**
+- :loudspeaker: Upcoming Projects - **Sleek Bill App**, **Nursing Privileges**
 
 - 🌱 I’m currently learning **Ruby On Rails, SvelteKit, Flutter**
 
