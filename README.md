@@ -2,9 +2,9 @@
 <h3>Full Stack Engineer. Freelancer. Love to build custom web applications.</h3>
 
 
-- 🔭 I’m currently working on **Hospital Post Discharge Summary Application** 
+- 🔭 I’m currently working on **Hospital Post Discharge Care Application** 
 
-- :loudspeaker: Upcoming Projects - **Sleek Bill App**, **Nursing Privileges**
+- :loudspeaker: Upcoming Projects - **Sleek Billing App**, **Nursing Privileges**
 
 - 🌱 I’m currently learning **Ruby On Rails, SvelteKit, Flutter**
 
