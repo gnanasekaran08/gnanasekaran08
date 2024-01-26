@@ -1,10 +1,9 @@
 <h1>Hi 👋, I'm Gnanasekaran</h1>
 <h3>Full Stack Engineer. Freelancer. Love to build custom web applications.</h3>
 
+- ✨ In Live: **Nursing Privileges**, **[Reallist](https://app.reallist.in/)**, **[Patient Continuous Care Platform](https://cccm.kauveryhospital.com/login)**
 
-- 🔭 I’m currently working on ~~**Hospital Post Discharge Care Application**~~ **Patient Continuous Care Platform** , **[Reallist](https://reallist.in/)**
-
-- :loudspeaker: Upcoming Projects - **Sleek Billing App**, **Nursing Privileges**
+- :loudspeaker: Upcoming Projects - **Sleek Billing App**, 
 
 - 🌱 I’m currently learning **Ruby On Rails, SvelteKit, Flutter**
 
