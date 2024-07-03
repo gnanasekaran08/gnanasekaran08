@@ -5,7 +5,7 @@
 
 - 💻 I'm currently working on developing a **Registry Application** for multi-specialty hospitals. It helps to study the patient history.
    
-- :loudspeaker: Upcoming Projects - **Sleek Billing App**, 
+- :loudspeaker: Upcoming Projects - **Sleek Billing App**, **IP EMR (Electronic Medical Records)**
 
 - 📫 How to reach me **gnanasekaran08@outlook.com**, **gnanasekaran.srgm@gmail.com**
 
