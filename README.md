@@ -12,7 +12,7 @@
 ### :loudspeaker: Upcoming Projects
 -  **IP EMR (Electronic Medical Records)**
 
-- 📫 How to reach me **gnanasekaran08@outlook.com**, **gnanasekaran.srgm@gmail.com**
+📫 How to reach me **gnanasekaran08@outlook.com**, **gnanasekaran.srgm@gmail.com**
 
 ### These are the things I known very well
 - Laravel
