@@ -8,6 +8,9 @@
 - [Rathna Corp Services](https://rathnacorp.com/)
 - [Heart Failure Registry](https://registry.cccm.app/)
 
+### WordPress Plugins
+- [WPGen Forms](https://github.com/gnanasekaran08/wpgen-forms-plugin)
+
    
 ### :loudspeaker: Upcoming Projects
 -  **IP EMR (Electronic Medical Records)**
