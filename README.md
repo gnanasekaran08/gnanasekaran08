@@ -4,7 +4,7 @@
 ### ✨ Here are products I build
 - [Clinical Privileges for Kauvery Hospitals](https://cp.kauveryhospital.com/)
 - [Reallist](https://app.reallist.in/)
-- [Patient Continuous Care Platform for Kauvery Hospitals](https://cccm.kauveryhospital.com/login)
+- [Post Discharge Care Platform](https://cccm.kauveryhospital.com/login)
 - [Rathna Corp Services](https://rathnacorp.com/)
 - [Heart Failure Registry](https://registry.cccm.app/)
 
