@@ -12,8 +12,8 @@
 - [WPGen Forms](https://github.com/gnanasekaran08/wpgen-forms-plugin)
 
    
-### :loudspeaker: Upcoming Projects
--  **IP EMR (Electronic Medical Records)**
+### :loudspeaker: Working on building more simplistic EMR.
+
 
 📫 How to reach me **gnanasekaran08@outlook.com**, **gnanasekaran.srgm@gmail.com**
 
