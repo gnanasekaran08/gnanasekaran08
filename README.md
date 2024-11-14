@@ -15,7 +15,7 @@
 ### :loudspeaker: Working on building more simplistic EMR.
 
 
-📫 How to reach me **gnanasekaran08@outlook.com**, **gnanasekaran.srgm@gmail.com**
+📫 How to reach me **gnanasekaran.srgm@gmail.com**, **gnanasekaran08@outlook.com**
 
 ### These are the things I known very well
 - Laravel
@@ -27,4 +27,5 @@
 
 ### 🌱 These are the things I learning now
 - Go
+- Remix
 
