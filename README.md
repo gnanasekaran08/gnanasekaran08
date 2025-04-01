@@ -5,11 +5,15 @@
 - [Clinical Privileges for Kauvery Hospitals](https://cp.kauveryhospital.com/)
 - [Reallist](https://app.reallist.in/)
 - [Post Discharge Care Platform](https://cccm.kauveryhospital.com/login)
-- [Rathna Corp Services](https://rathnacorp.com/)
+
 - [Heart Failure Registry](https://registry.cccm.app/)
 
 ### WordPress Plugins
 - [WPGen Forms](https://github.com/gnanasekaran08/wpgen-forms-plugin)
+
+### My Freelance Projects
+- [Rathna Corp Services](https://rathnacorp.com/)
+- [Claimstant](https://claimstant.com/)
 
    
 ### :loudspeaker: Working on building more simplistic EMR.
