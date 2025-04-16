@@ -2,7 +2,7 @@
 <h3>Software Engineer. Love to build bespoke web applications.</h3>
 
 ### ✨ Here are products I build
-- [Clinical Privileges for Kauvery Hospitals](https://cp.kauveryhospital.com/)
+- [Clinical Privileges for Kauvery Hospitals](https://cp.kauvery.in/)
 - [Reallist](https://app.reallist.in/)
 - [Post Discharge Care Platform](https://cccm.kauveryhospital.com/login)
 
