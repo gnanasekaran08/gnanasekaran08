@@ -9,7 +9,7 @@
 
 ### ✨ Here are products I support
 - [Kauvery HR Onboarding Management](https://careers.kauverykonnect.com/login)
-- [Medicall - CRM - Event Management System] (https://crm.medicall.in/login)
+- [Medicall - CRM - Event Management System](https://crm.medicall.in/login)
 
 ### WordPress Plugins
 - [WPGen Forms](https://github.com/gnanasekaran08/wpgen-forms-plugin)
